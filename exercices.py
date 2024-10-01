@@ -1,7 +1,7 @@
 # %%
 # À ex'écuter en premier
 import numpy as np
-
+import copy
 # %% [markdown]
 # # Niveau 1 : Création de tableaux simples
 
